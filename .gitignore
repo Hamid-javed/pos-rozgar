@@ -3,7 +3,7 @@ out/
 dist/
 dist-installer/
 *.db
-.env
 .DS_Store
 Thumbs.db
 .claude
+config.bat
